@@ -1,4 +1,4 @@
 # CMSBlog
 
-CMS using Nodejs, expressJs, mongoDB, boostrap.\n
+CMS using Nodejs, expressJs, mongoDB, boostrap.
 Contact: aishee@aishe.net
